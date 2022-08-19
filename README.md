@@ -13,7 +13,7 @@ I follow a marketing technique known as <b>RFM analysis</b>, which derives insig
 - Frequency (How often do they purchase?)
 - Monetary Value (How much do they spend?) 
 
-The project is written in Python and the steps covered in the [Jupyter Notebook](https://github.com/quarterpastten) are as follows: 
+The project is written in Python and the steps covered in the [Jupyter Notebook](https://github.com/quarterpastten/Customer_Segmentation_Clustering/blob/main/customer_segmentation_kmeans.ipynb) are as follows: 
 
 1. Import and clean data
 2. Feature extraction: RFM analysis
