@@ -20,3 +20,5 @@ The project is written in Python and the steps covered in the [Jupyter Notebook]
 3. Pre-processing (remove outliers and feature scaling)
 4. Clustering with K-means
 5. Observations and conclusions
+
+Please see [here](https://nbviewer.org/github/quarterpastten/Customer_Segmentation_Clustering/blob/main/customer_segmentation_kmeans.ipynb) for a version of the Notebook with the interactive plot displayed. 
