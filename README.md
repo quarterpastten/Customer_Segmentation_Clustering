@@ -25,3 +25,8 @@ Please see [here](https://nbviewer.org/github/quarterpastten/Customer_Segmentati
 
 # Resulting Clusters
 
+<img src="results.jpg" alt="drawing" width="700"/>
+
+- <b>Group 1 (green)</b>: less frequent, less recent and lower overall spend. This will represent the least valuable customer.
+- <b>Group 2 (red)</b>: less frequent, lower overall spend but more recent. This group will be among those to target for promotions.
+- <b>Group 3 (blue)</b>: more recent, more frequent and the higher spenders. This represents the most valuable since they are typically the most frequent, most recent and higher spending customers.
