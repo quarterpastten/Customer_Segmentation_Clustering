@@ -5,7 +5,7 @@
 Customer segmentation involves dividing customers into groups based on certain characteristics they share, such as their demographics, geographical location, their interests or their behaviour. Doing so allows marketers to personalise their marketing campaigns, to identify potentially profitable customers and to develop customer loyalty.
 
 \
-In this project I use <i>K-means clustering</i>, which is an unsupervised form of machine learning, to segment customers of an online retail company using [data](https://archive.ics.uci.edu/ml/datasets/Online+Retail) regarding thier purchasing behaviour. 
+In this project I use <i>K-means clustering</i>, which is an unsupervised form of machine learning, to segment customers of an online retail company using [data](https://archive.ics.uci.edu/ml/datasets/Online+Retail) regarding thier <b>purchasing behaviour</b>. 
 
 I follow a marketing technique known as <b>RFM analysis</b>, which derives insights based on the following features: 
 
